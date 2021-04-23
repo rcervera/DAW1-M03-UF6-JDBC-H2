@@ -20,7 +20,7 @@ public class AssignaturaDAO {
         return null;
     }
 
-    public Alumne get(String dni) {
+    public Alumne get(int codi) {
 
         return null;
     }
